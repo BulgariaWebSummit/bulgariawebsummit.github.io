@@ -2,8 +2,7 @@
 
 [Bulgaria Web Summit 2018](https://bulgariawebsummit.com) is an awesome event about the modern web. Last event's speakers were: [@csswizardry](https://github.com/csswizardry), [@aral](https://github.com/aral), [@AdaRoseEdwards](https://github.com/AdaRoseEdwards), [@bergie](https://github.com/bergie) and many, many more.  
 
-
-Join them!
+See an [overview about our past event here](https://medium.com/@boyanyordanov/bulgaria-web-summit-2017-recap-edf5cda7bbb5) and join us!
 
 
 ### Call for speakers
