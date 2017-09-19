@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Bulgaria web Sumit 2018
 
-You can use the [editor on GitHub](https://github.com/BulgariaWebSummit/bulgariawebsummit.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Bulgaria Web Summit 2018](https://bulgariawebsummit.com) is an awesome event about the modern web.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Call for speakers
 
-### Markdown
+We are looking for *inspiring* speakers that can cover topics about the modern web: back-end and front-end.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Abstracts should be at least 120 words long and indicate target audience (beginner/daily user/expert)
+2. Submission must include a short technical and presentation resume of the speaker
+3. All talks will be given in English and last 45 minutes
+4. We DO NOT accept single commercial solutions talks via Call for Papers.
+5. Speakers will have full, unlimited access to all conference days, events and materials.
+6. We will cover some of your expenses (such as hotel, ticket and some food and beer)
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#### Interested?
+Click [here](https://github.com/BulgariaWebSummit/bulgariawebsummit.github.io/issues/new) to add the requested materials. 
+Good luck!
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BulgariaWebSummit/bulgariawebsummit.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Contast us
+If you have any questions, please feel free to contact us by sending an e-mail to 2018 -at- bulgariawebsummit.com or twitter us at @bgwebsummit
