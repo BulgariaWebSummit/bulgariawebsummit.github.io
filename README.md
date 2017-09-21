@@ -1,4 +1,4 @@
-## Bulgaria Web Sumit 2018
+## Bulgaria Web Summit 2018
 
 [Bulgaria Web Summit 2018](https://bulgariawebsummit.com) is an awesome event about the modern web. Last event's speakers were: [@csswizardry](https://github.com/csswizardry), [@aral](https://github.com/aral), [@AdaRoseEdwards](https://github.com/AdaRoseEdwards), [@bergie](https://github.com/bergie) and many, many more.  
 
@@ -22,5 +22,5 @@ Click [here](https://github.com/BulgariaWebSummit/bulgariawebsummit.github.io/is
 Good luck!
 
 
-#### Contast us
+#### Contact us
 If you have any questions, please feel free to contact us by sending an e-mail to 2018 -at- bulgariawebsummit.com or twitter us at @bgwebsummit
