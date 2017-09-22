@@ -7,7 +7,19 @@ See an [overview about our past event here](https://medium.com/@boyanyordanov/bu
 
 ### Call for speakers
 
-We are looking for *inspiring* speakers that can cover topics about the modern web: back-end and front-end.
+#### Topics
+We are looking for *inspiring* speakers that can cover topics about the modern web in the following topics:
+
+1.Programming
+2.UX
+3.Privacy
+4.eHealth
+5.Games Development
+6.Design for Web
+7.Databases
+8. (Web) Product Development
+
+#### Requirements
 
 1. Abstracts should be at least 120 words long and indicate target audience (beginner/daily user/expert)
 2. Submission must include a short technical and presentation resume of the speaker
@@ -15,6 +27,8 @@ We are looking for *inspiring* speakers that can cover topics about the modern w
 4. We DO NOT accept single commercial solutions talks via Call for Papers.
 5. Speakers will have full, unlimited access to all conference days, events and materials.
 6. We will cover some of your expenses (such as hotel, ticket and some food and beer)
+
+Dealine: 22.12.$this year
 
 
 #### Interested?
