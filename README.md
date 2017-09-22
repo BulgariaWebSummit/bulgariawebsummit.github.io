@@ -10,13 +10,13 @@ See an [overview about our past event here](https://medium.com/@boyanyordanov/bu
 #### Topics
 We are looking for *inspiring* speakers that can cover topics about the modern web in the following topics:
 
-1.Programming
-2.UX
-3.Privacy
-4.eHealth
-5.Games Development
-6.Design for Web
-7.Databases
+1. Programming
+2. UX
+3. Privacy
+4. eHealth
+5. Games Development
+6. Design for Web
+7. Databases
 8. (Web) Product Development
 
 #### Requirements
