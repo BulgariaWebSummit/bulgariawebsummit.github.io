@@ -8,7 +8,7 @@ See an [overview about our past event here](https://medium.com/@boyanyordanov/bu
 ### Call for speakers
 
 #### Topics
-We are looking for *inspiring* speakers that can cover topics about the modern web in the following topics:
+We are looking for *inspiring* speakers that can cover topics about the *modern web* in the following topics:
 
 1. Programming
 2. UX
@@ -28,7 +28,7 @@ We are looking for *inspiring* speakers that can cover topics about the modern w
 5. Speakers will have full, unlimited access to all conference days, events and materials.
 6. We will cover some of your expenses (such as hotel, ticket and some food and beer)
 
-Dealine: 22.12.$this year
+Deadline: 22.12.$this year
 
 
 #### Interested?
