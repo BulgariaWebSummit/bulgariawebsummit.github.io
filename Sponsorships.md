@@ -6,6 +6,7 @@ Bulgaria Web Summit is an annual technology conference, since 2004 about the mod
 
 
 **Benefit:** Practical lessons which you can immediately apply in your work and thus gain time and money. The attendance fee is actually an investment. An investment in yourselves.
+
 **Community:** A balanced mixture of participants and speakers working in programming, design, marketing and business development. Find partners, colleagues or ideas to develop.
 
  - We have been supported by many sponsors through the years, which shows another useful aspect of the conference.
@@ -13,7 +14,7 @@ Bulgaria Web Summit is an annual technology conference, since 2004 about the mod
  - We provide a forum for visionaries – we are the first place where their concepts are presented
 
 
- ## Some numbers about BWS 2018
+## Some numbers about BWS 2018
  
  - Attendees: 800
  - Topics: Programming, UX, UI, eHealth, Back-End, Front-End, Privacy
@@ -38,7 +39,7 @@ Bulgaria Web Summit is an annual technology conference, since 2004 about the mod
 
 
  
- ### Audience Profile (by area), 2017 data
+### Audience Profile (by area), 2017 data
  
  450 geeks from 21 countries and 4 continents
  
@@ -49,7 +50,7 @@ Bulgaria Web Summit is an annual technology conference, since 2004 about the mod
 
 
  
- ## Personalize your experience
+## Personalize your experience
  
 We are very flexible and we can offer you a lot of lucrative and optional  solutions, which can be tailored in accordance with your wishes.
 Another interesting fact is that in spite all the professionalism and quality, offered by the events, we do not do it for money, but to give a chance to anyone willing to draw on all the knowledge and experience
