@@ -31,7 +31,7 @@ Bulgaria Web Summit is an annual technology conference, since 2004 about the mod
  -  New business: Use the conference to attract new projects.
  -  Get recognition and good vibes from the designer and developer community for making the conference possible.
 
- ### Audience Profile (by occupation), 2017 data
+### Audience Profile (by occupation), 2017 data
  - 60% Programmers (web)
  - 30% Designers and UX/UI gurus
  - 5% #IoT and Hardware addicts
