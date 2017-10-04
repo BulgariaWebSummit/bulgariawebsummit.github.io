@@ -2,7 +2,7 @@
 
 
 ## About
-Bulgaria Web Summit is an annual technology conference, since 2004 about the modern web.
+[Bulgaria Web Summit 2018](https://bulgariawebsummit.com) is an annual technology conference, since 2004, about the modern web.
 
 
 **Benefit:** Practical lessons which you can immediately apply in your work and thus gain time and money. The attendance fee is actually an investment. An investment in yourselves.
