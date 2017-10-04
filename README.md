@@ -1,3 +1,6 @@
+[Become a Sponsor](/Sponsorships)
+
+
 ## Bulgaria Web Summit 2018
 
 [Bulgaria Web Summit 2018](https://bulgariawebsummit.com) is an awesome event about the modern web. Last event's speakers were: [@csswizardry](https://github.com/csswizardry), [@aral](https://github.com/aral), [@AdaRoseEdwards](https://github.com/AdaRoseEdwards), [@bergie](https://github.com/bergie) and many, many more.  
