@@ -5,11 +5,8 @@
 Bulgaria Web Summit is an annual technology conference, since 2004 about the modern web.
 
 
-Benefit: Practical lessons which you can immediately apply in your work and thus gain time and money. The attendance fee is actually an investment. An investment in yourselves.
-Community: A balanced mixture of participants and speakers working in programming, design, marketing and business development. Find partners, colleagues or ideas to develop.
-
-
-
+**Benefit:** Practical lessons which you can immediately apply in your work and thus gain time and money. The attendance fee is actually an investment. An investment in yourselves.
+**Community:** A balanced mixture of participants and speakers working in programming, design, marketing and business development. Find partners, colleagues or ideas to develop.
 
  - We have been supported by many sponsors through the years, which shows another useful aspect of the conference.
  - Many famous names from Bulgaria and abroad have spoken at our conferences – we are very serious and we help our audience.
@@ -33,16 +30,18 @@ Community: A balanced mixture of participants and speakers working in programmin
  -  New business: Use the conference to attract new projects.
  -  Get recognition and good vibes from the designer and developer community for making the conference possible.
 
-### Audience Profile (by occupation), 2017 data
+ ### Audience Profile (by occupation), 2017 data
  - 60% Programmers (web)
  - 30% Designers and UX/UI gurus
  - 5% #IoT and Hardware addicts
  - 5% Managers
 
 
+ 
  ### Audience Profile (by area), 2017 data
  
- 450 geeks from 21 countries and 4 continents:
+ 450 geeks from 21 countries and 4 continents
+ 
  - 40% Bulgaria
  - 30% The Balkans
  - 25% Europe
@@ -132,6 +131,7 @@ website and on all of the conference materials
 - Logo in newsletters.
 - 2 job ads.
 - HR activities allowed.
+
 *Price: BGN 5000, without VAT*
 
 
