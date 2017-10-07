@@ -1,4 +1,4 @@
-[[Become a Sponsor](/Sponsorships)]
+[[Become a Sponsor](/Sponsorships.md)]
 
 
 ## Bulgaria Web Summit 2018
